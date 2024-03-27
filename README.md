@@ -22,11 +22,11 @@ FIRST MAKE SURE YOUR SIGNED INTO GITHUB ON THE WEB AND ON VSCODE .
 
 >
    NOW EVERYTIME your satisfied with your work you need to commit and push your changes to github (HERES HOW)
-9. go to source control again on left
-10. when you make a change you will see a file there
-11. click the **plus button** next to the file
-12. enter a message(you have to or it wont work)
-13. press the downward arrow for commit & push             sidenote:(if you click commit then you need to push it too. click the 3 dots just above that message and click push)
+1. go to source control again on left
+2. when you make a change you will see a file there
+3. click the **plus button** next to the file
+4. enter a message(you have to or it wont work)
+5. press the downward arrow for commit & push             sidenote:(if you click commit then you need to push it too. click the 3 dots just above that message and click push)
 
 
 
