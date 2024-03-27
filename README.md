@@ -4,7 +4,7 @@ This is our project files above ....
 
 
 
-FIRST MAKE SURE YOUR SIGNED INTO GITHUB ON THE WEB AND ON VSCODE .
+FIRST MAKE SURE YOUR SIGNED INTO **GITHUB** ON THE WEB AND ON VSCODE .
 
 
 >
@@ -16,6 +16,7 @@ FIRST MAKE SURE YOUR SIGNED INTO GITHUB ON THE WEB AND ON VSCODE .
 6. enter **selinakairyte/NintendoVirtualBoy_Website**
 7. choose a place to save onto your local computer
 8. once open you should see all the files on the left in explorer. click on them to view and edit.
+
 
 
 
@@ -35,7 +36,7 @@ FIRST MAKE SURE YOUR SIGNED INTO GITHUB ON THE WEB AND ON VSCODE .
 
 
 
->LIKEWISE CLICK SOURCE CONTROL AND PULL TO RECIEVE OTHER PEOPLES CHANGES..!!!
+**LIKEWISE CLICK SOURCE CONTROL AND PULL TO RECIEVE OTHER PEOPLES CHANGES..!!!**
 
 
 (tip - install git as an extension on vscode )
