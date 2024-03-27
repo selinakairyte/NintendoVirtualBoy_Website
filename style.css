@@ -1,1 +1,12 @@
 /* empty css file  */
+
+body{
+    color: red;
+    background-color: black;
+    text-decoration: wavy;
+    text-shadow: 500cm;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
