@@ -15,7 +15,7 @@ im going to leave some instructions on how to set up.
 
 
 
-   NOW you need to connect to github to commit and push changes
+   NOW EVERYTIME your satisfied with your work you need to commit and push your changes to github (HERES HOW)
 9. go to source control again on left
 10. when you make a change you will see a file there
 11. click the plus button next to the file
@@ -25,3 +25,11 @@ im going to leave some instructions on how to set up.
 
 
 Check if it was pushed your changes by looking at this page should be updated.
+
+
+
+
+LIKEWISE CLICK SOURCE CONTROL AND PULL TO RECIEVE OTHER PEOPLES CHANGES..!!!
+
+
+(tip - install git as an extension on vscode )
