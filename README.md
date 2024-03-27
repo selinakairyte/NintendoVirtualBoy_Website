@@ -2,6 +2,12 @@ This is our project files above ....
 
 im going to leave some instructions on how to set up.
 
+
+
+FIRST MAKE SURE YOUR SIGNED INTO GITHUB ON THE WEB AND ON VSCODE .
+
+
+
 1. if you have vs code installed
 2. open vs code
 3. open the source control, its to the left..
