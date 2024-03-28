@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    text-shadow: 500cm;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.pixel-grid {
+    display: grid;
+    grid-template-columns: repeat(35, 11px); /* Adjust the number of columns and size of pixels */
+    grid-gap:0 39px; 
+    
+
+}
+.pixel-box {
+    width: 50px; /* Adjust width as needed */
+    height: 50px; /* Adjust height as needed */
+    background-color: black; /* Change color as needed */
+    /* border: 2px solid white;   */
+}
+
+
+/* Optional: for a more pronounced pixel effect */
+.pixel-box::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(45deg, transparent 50%, rgba(255, 255, 255, 0.5) 50%);
+    background-size: 1px 1px; /* Adjust for finer or larger pixels */
+}
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+.black{
+    background-color: black;
+}
