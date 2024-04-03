@@ -40,3 +40,7 @@ FIRST MAKE SURE YOUR SIGNED INTO **GITHUB** ON THE WEB AND ON VSCODE .
 
 
 (tip - install git as an extension on vscode )
+
+
+
+*design however you like!* but **do it on your own file!!!!** dont make it confusing for others 
