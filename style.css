@@ -17,6 +17,13 @@ header{
     font-size: 200%;
 }
 
+footer{
+    font-family: 'PressStart2P-Regular', sans-serif;
+    text-align: center;
+    padding-bottom: 1%;
+    font-size: 80%;
+}
+
 @font-face {
     font-family: 'PressStart2P-Regular';
     src: url('fonts/PressStart2P-Regular.ttf') format('truetype');
