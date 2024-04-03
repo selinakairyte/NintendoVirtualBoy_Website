@@ -8,5 +8,15 @@ body{
     text-transform: uppercase;
     font-weight: bolder;
     font-size: xx-large;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'PressStart2P-Regular', sans-serif;
+}
+
+@font-face {
+    font-family: 'PressStart2P-Regular';
+    src: url('fonts/PressStart2P-Regular.ttf') format('truetype');
+
+    /* i could also add the .woff format... */
+
+    font-weight: normal;
+    font-style: normal;
 }
