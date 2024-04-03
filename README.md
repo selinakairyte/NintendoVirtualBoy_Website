@@ -36,7 +36,9 @@ FIRST MAKE SURE YOUR SIGNED INTO **GITHUB** ON THE WEB AND ON VSCODE .
 
 
 
-**LIKEWISE CLICK SOURCE CONTROL AND PULL TO RECIEVE OTHER PEOPLES CHANGES..!!!**
+**likewise click source control and pull to view other peoples changes..!!!**
+
+**and its recommended to save your files elsewhere if u need to pull then push (in order to not lose work u havent pushed yet)because others changes can override your own if u pull**
 
 
 (tip - install git as an extension on vscode )
