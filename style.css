@@ -13,7 +13,7 @@ body{
 header{
     font-family: 'SuperMario256', sans-serif;
     text-align: center;
-    padding-top: 15%;
+    padding-top: 3%;
     font-size: 200%;
 }
 
@@ -29,6 +29,8 @@ footer{
     font-family: 'PressStart2P-Regular', sans-serif;
     text-align: center;
     padding-bottom: 1%;
+    padding-top: 1%;
+    /* margin-bottom: 1%; */
     font-size: 80%;
 }
 
@@ -54,19 +56,34 @@ footer{
     align-items: center; 
     /* this one vertically centers */
     /* height: 10; */
-    
+
 }
 
 .Start-Box{
     border: 2px solid white;
-    padding-left: 50%;
+    padding-left: 4%;
+    padding-right: 3%; 
+    /* these 2 paddings are for the box from the text */
     width: 200px;
     border-width: 10px;
     border-style: outset;
     border-radius: 50px;
     border-spacing: 50px;
+    text-align: center;
+    border-color: rgb(252, 1, 1);
+    background-color: rgb(138, 10, 10);
 }
 
-/* .Start-Box h4 {
-    margin: 0;
-} */
+.Start-Box p {
+    padding-right: 50px;
+    color: rgb(255, 0, 0);
+    
+}
+
+.ScoreBoard {
+    font-family: 'PressStart2P-Regular', sans-serif;
+    text-align: center;
+    padding-top: 1%;
+    font-size: 80%;
+
+}
