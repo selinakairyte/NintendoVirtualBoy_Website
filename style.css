@@ -17,6 +17,14 @@ header{
     font-size: 200%;
 }
 
+section{
+    font-family: 'SuperMario256', sans-serif;
+    text-align: center;
+    padding-top: 1%;
+    font-size: 100%;
+
+}
+
 footer{
     font-family: 'PressStart2P-Regular', sans-serif;
     text-align: center;
@@ -39,3 +47,26 @@ footer{
     font-weight: normal;
     font-style: normal;
 }
+
+.containers{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    /* this one vertically centers */
+    /* height: 10; */
+    
+}
+
+.Start-Box{
+    border: 2px solid white;
+    padding-left: 50%;
+    width: 200px;
+    border-width: 10px;
+    border-style: outset;
+    border-radius: 50px;
+    border-spacing: 50px;
+}
+
+/* .Start-Box h4 {
+    margin: 0;
+} */
