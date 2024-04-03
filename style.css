@@ -12,6 +12,9 @@ body{
 }
 header{
     font-family: 'SuperMario256', sans-serif;
+    text-align: center;
+    padding-top: 15%;
+    font-size: 200%;
 }
 
 @font-face {
