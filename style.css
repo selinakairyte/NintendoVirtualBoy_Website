@@ -74,9 +74,10 @@ footer{
     background-color: rgb(138, 10, 10);
 }
 
-.Start-Box p {
+.Start-Box p a{
     padding-right: 50px;
     color: rgb(255, 0, 0);
+    text-decoration: none;
     
 }
 
