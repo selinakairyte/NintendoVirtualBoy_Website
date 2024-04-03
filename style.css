@@ -10,6 +10,9 @@ body{
     font-size: xx-large;
     font-family: 'PressStart2P-Regular', sans-serif;
 }
+header{
+    font-family: 'SuperMario256', sans-serif;
+}
 
 @font-face {
     font-family: 'PressStart2P-Regular';
