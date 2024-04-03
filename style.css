@@ -79,6 +79,7 @@ footer{
     color: rgb(255, 0, 0);
     text-decoration: none;
     
+    
 }
 
 .ScoreBoard {
@@ -87,4 +88,44 @@ footer{
     padding-top: 1%;
     font-size: 80%;
 
+}
+
+.Level-Box{
+    border: 2px solid white;
+    padding-left: 10%;
+    padding-right: 10%; 
+    /* these 2 paddings are for the box from the text */
+    width: 200px;
+    border-width: 10px;
+    border-style: outset;
+    border-radius: 50px;
+    border-spacing: 50px;
+    text-align: center;
+    border-color: rgb(252, 1, 1);
+    background-color: rgb(138, 10, 10);
+}
+.Level-Box p a {
+    padding-right: 50px;
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+    font-size: 50%;
+}
+
+.infoBox{
+    border: 2px solid white;
+    padding-left: 10%;
+    padding-right: 10%; 
+    /* these 2 paddings are for the box from the text */
+    width: 200px;
+    border-width: 10px;
+    border-style: outset;
+    border-radius: 50px;
+    border-spacing: 50px;
+    text-align: center;
+    border-color: rgb(252, 1, 1);
+    background-color: rgb(138, 10, 10);
+    overflow:hidden; 
+    /* hides the extra text */
+    word-wrap: break-word;
+    /* with this the text goes onto the next line */
 }
