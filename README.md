@@ -4,7 +4,9 @@ This is our project files above ....
 
 
 >Initial Set Up
->To begin make sure your signed into **GITHUB** on the **github WEB** and on **VSCODE** .
+
+To begin make sure your signed into **GITHUB** on the **github WEB** and on **VSCODE** .
+
 1. if you have vs code installed
 2. open vs code
 3. open the source control, its to the left..
@@ -17,6 +19,7 @@ This is our project files above ....
 
 
 >Pushing
+
    NOW EVERYTIME your satisfied with your work you need to commit and push your changes to github (HERES HOW)
 1. go to source control again on left
 2. when you make a change you will see a file there
@@ -26,11 +29,12 @@ This is our project files above ....
 
 
 
-> Double Check ! Check if your changes were pushed  by looking at this page which should be updated.
+*Double Check ! Check if your changes were pushed  by looking at this page which should be updated.*
 
 
 
 >Pulling
+
 **Has this page files changed? make sure to PULL the changes onto your code base (click source control and pull) !!!**
 
 **and its recommended to save your files elsewhere if u need to pull then push (in order to not lose work u havent pushed yet)because others changes can override your own if u pull**
