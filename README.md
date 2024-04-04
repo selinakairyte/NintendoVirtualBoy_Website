@@ -5,7 +5,7 @@ This is our project files above ....
 
 >Initial Set Up
 
->To begin make sure your signed into **GITHUB** on the **github WEB** and on **VSCODE** .
+To begin make sure your signed into **GITHUB** on the **github WEB** and on **VSCODE** .
 
 1. if you have vs code installed
 2. open vs code
@@ -29,7 +29,7 @@ This is our project files above ....
 
 
 
-> Double Check ! Check if your changes were pushed  by looking at this page which should be updated.
+*Double Check ! Check if your changes were pushed  by looking at this page which should be updated.*
 
 
 
