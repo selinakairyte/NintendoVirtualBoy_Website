@@ -3,11 +3,8 @@ This is our project files above ....
 **im going to leave some instructions on how to set up.**
 
 
-
-FIRST MAKE SURE YOUR SIGNED INTO **GITHUB** ON THE WEB AND ON VSCODE .
-
-
->
+>Initial Set Up
+>To begin make sure your signed into **GITHUB** on the **github WEB** and on **VSCODE** .
 1. if you have vs code installed
 2. open vs code
 3. open the source control, its to the left..
@@ -19,9 +16,7 @@ FIRST MAKE SURE YOUR SIGNED INTO **GITHUB** ON THE WEB AND ON VSCODE .
 
 
 
-
-
->
+>Pushing
    NOW EVERYTIME your satisfied with your work you need to commit and push your changes to github (HERES HOW)
 1. go to source control again on left
 2. when you make a change you will see a file there
@@ -31,14 +26,15 @@ FIRST MAKE SURE YOUR SIGNED INTO **GITHUB** ON THE WEB AND ON VSCODE .
 
 
 
->Check if it was pushed your changes by looking at this page should be updated.
+> Double Check ! Check if your changes were pushed  by looking at this page which should be updated.
 
 
 
-
-**likewise click source control and pull to view other peoples changes..!!!**
+>Pulling
+**Has this page files changed? make sure to PULL the changes onto your code base (click source control and pull) !!!**
 
 **and its recommended to save your files elsewhere if u need to pull then push (in order to not lose work u havent pushed yet)because others changes can override your own if u pull**
+
 
 
 (tip - install git as an extension on vscode )
