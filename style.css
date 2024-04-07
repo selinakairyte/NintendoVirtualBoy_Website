@@ -138,13 +138,13 @@ footer{
 .hpbox{
     width: 30%;
     height: 30px;
-    background-color: rgb(254, 9, 9);
+    background-color: rgba(255, 0, 0, 0.983);
     overflow:hidden;
     border-radius: 5px;
     margin: 20px auto;
 }
 .hpleft{
-    background-color: rgb(168, 19, 19);
+    background-color: rgb(103, 5, 5);
     height: 70%;
     width: 50%;
     margin-top: 0.8%;
